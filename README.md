@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ChatGPT Image Dec 4, 2025, 11_56_18 AM.png" alt="Hasan Kabir Robin Banner " height="300px" width="100%" />
+  <img src="https://github.com/hkrobinbrother/hkrobinbrother/blob/main/cover.png?raw=true" alt="Hasan Kabir Robin Banner" width="100%" />
 </p>
 
 
