@@ -14,6 +14,16 @@
 </a>
 
 </div>
+## 🚀 About Me
+
+- 🌱 Currently learning **Node.js, Express.js, PostgreSQL, and TypeScript**.
+- 💻 Building **full-stack web applications** with the MERN stack.
+- ⚛️ Skilled in **HTML, CSS, Tailwind CSS, JavaScript, and React**.
+- 🚀 Exploring backend development and RESTful API design.
+- 📚 Passionate about writing clean, scalable, and maintainable code.
+- 🎯 Goal: To become a professional **Full-Stack Software Developer**.
+- 📫 Reach me at: **hkrobin48@gmail.com**
+
 
 
 # 💻 Tech Stack:
