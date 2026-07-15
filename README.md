@@ -2,6 +2,18 @@
   <img src="https://github.com/hkrobinbrother/hkrobinbrother/blob/main/Thomas Craft Round.png?raw=true" alt="Hasan Kabir Robin Banner" width="100%" />
 </p>
 
+<div align="center">
+
+# Hi 👋, I'm Hasan Kabir Robin
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=25&pause=1200&color=2B90FF&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;Skilled+in+Frontend+Development;Learning+Backend+with+Node.js+%26+PostgreSQL;Building+Modern+Web+Solutions;Always+Learning+New+Technologies"
+    alt="Typing SVG"
+  />
+</a>
+
+</div>
 
 
 # 💻 Tech Stack:
