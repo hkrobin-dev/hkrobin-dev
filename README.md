@@ -55,7 +55,7 @@
 # 📊 GitHub Stats
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hkrobinbrother&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=hkrobin-dev&theme=dark)
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -98,6 +98,6 @@
 
 ###
 
-### 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=mdhkrobinborother&color=6f00ff)
+### Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=mdhkrobin-dev&color=6f00ff)
 
